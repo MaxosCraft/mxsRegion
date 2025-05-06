@@ -1,0 +1,4 @@
+name: mxsRegion
+version: '${project.version}'
+main: ru.mxsregion.mxsregion.MxsRegion
+api-version: '1.16'
